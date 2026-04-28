@@ -17,7 +17,7 @@ Whether you're starting your IT career or leveling up, this repository helps you
 
 If you want to test your knowledge with real exam-style questions:
 
-👉 https://www.certifyquiz.com
+👉 https://www.certifyquiz.com — Free IT Certification Practice Tests (AWS, Cisco, Security+)
 
 - Free quizzes for AWS, Cisco, Microsoft, ISC2 and more
 - Practice by topic or full exam simulation
