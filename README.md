@@ -1,4 +1,4 @@
-# 🎯 IT Certification Exam Resources (Free & Updated 2026)
+**Free IT certification resources, practice tests, and study guides** (AWS, Cisco CCNA, CISSP, Security+)
 
 A curated collection of the best free resources to prepare for IT certifications like:
 
